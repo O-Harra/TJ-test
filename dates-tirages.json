@@ -1,6 +1,23 @@
 {
   "tirages": [
     {
+      "date": "10-11-2026",
+      "numeros": [
+        15,
+        18,
+        31,
+        37,
+        41
+      ],
+      "etoiles": [
+        1,
+        5
+      ],
+      "numero My_Million": "NY 998 6446",
+      "numero de tirage dans le cycle": 2,
+      "annee numero de tirage": 26081
+    },
+    {
       "date": "06-11-2026",
       "numeros": [
         7,
